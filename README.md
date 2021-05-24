@@ -1,4 +1,4 @@
-git-lesson
+Git Lesson
 
 **Location:** Online
 
